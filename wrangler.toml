@@ -3,8 +3,8 @@ main = "src/index.ts"
 compatibility_date = "2023-01-01"
 
 [vars]
-USERNAME = "$USERNAME"
-PASSWORD = "$PASSWORD"
+USERNAME = "ommo"
+PASSWORD = "MFpm1BZ2bx"
 BUCKET_NAME = "$BUCKET_NAME"
 
 [[r2_buckets]]
