@@ -9,4 +9,4 @@ BUCKET_NAME = "$BUCKET_NAME"
 
 [[r2_buckets]]
 binding = "BUCKET"
-bucket_name = "$BUCKET_NAME"
+bucket_name = "webdav"
